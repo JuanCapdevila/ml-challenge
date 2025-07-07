@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "MercadoPago",
+    "icon": "/static/payment_logos/mercado-pago.png",
+    "category": "Cuotas sin tarjeta"
+  },
+  {
+    "id": 2,
+    "name": "Visa",
+    "icon": "/static/payment_logos/visa.png",
+    "category": "Tarjetas de crédito"
+  },
+  {
+    "id": 3,
+    "name": "American Express",
+    "icon": "/static/payment_logos/amex.jpg",
+    "category": "Tarjetas de crédito"
+  },
+  {
+    "id": 4,
+    "name": "Mastercard",
+    "icon": "/static/payment_logos/mastercard.png",
+    "category": "Tarjetas de crédito"
+  },
+  {
+    "id": 5,
+    "name": "Naranja",
+    "icon": "/static/payment_logos/naranja.png",
+    "category": "Tarjetas de crédito"
+  },
+  {
+    "id": 6,
+    "name": "Visa Débito",
+    "icon": "/static/payment_logos/visa-debit.png",
+    "category": "Tarjetas de débito"
+  },
+  {
+    "id": 7,
+    "name": "Maestro",
+    "icon": "/static/payment_logos/maestro.png",
+    "category": "Tarjetas de débito"
+  },
+  {
+    "id": 8,
+    "name": "Cabal Débito",
+    "icon": "/static/payment_logos/cabal.png",
+    "category": "Tarjetas de débito"
+  },
+  {
+    "id": 9,
+    "name": "PagoFácil",
+    "icon": "/static/payment_logos/pagofacil.png",
+    "category": "Efectivo"
+  },
+  {
+    "id": 10,
+    "name": "Rapipago",
+    "icon": "/static/payment_logos/rapipago.png",
+    "category": "Efectivo"
+  }
+]

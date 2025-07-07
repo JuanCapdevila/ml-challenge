@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Padel Pro Shop",
+    "rating": 4.9,
+    "location": "Buenos Aires, Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Todo Paleta",
+    "rating": 4.5,
+    "location": "Córdoba, Argentina"
+  }
+]

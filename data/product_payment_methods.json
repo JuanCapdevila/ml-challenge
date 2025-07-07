@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "payment_method_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+  },
+  {
+    "id": 2,
+    "product_id": 2,
+    "payment_method_ids": [3,5,7,1,6,4,7,8,10]
+  },
+  {
+    "id": 3,
+    "product_id": 3,
+    "payment_method_ids": [3,5,7,1,6,8,9,10]
+  },
+  {
+    "id": 3,
+    "product_id": 4,
+    "payment_method_ids": [3,5,7,1,6,4,7,8,9,10]
+  },
+  {
+    "id": 3,
+    "product_id": 5,
+    "payment_method_ids": [3,5,7,1,6,4,7,8]
+  },
+  {
+    "id": 3,
+    "product_id": 6,
+    "payment_method_ids": [7,1,6,4,7,8,9,10]
+  }
+]
