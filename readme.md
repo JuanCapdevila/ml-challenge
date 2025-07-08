@@ -11,7 +11,3 @@
 ## 🚀 Cómo ejecutarlo
 
 Clonar repositorio de manera local y ver el archivo [`run.md`] para instrucciones completas de instalación, ejecución y pruebas.
-
-## 📄 Documentación técnica
-
-El documento de decisiones, diseño y desafíos enfrentados se encuentra aparte en formato PDF.
