@@ -6,7 +6,6 @@
 - **Frontend:** React (CDN con Babel)
 - **Contenedores:** Docker + Docker Compose
 - **Testing:** Pytest + Coverage
-- **Logging:** Rotación de logs por archivo, excluidos del control de versiones
 
 ## 🚀 Cómo ejecutarlo
 
