@@ -10,7 +10,7 @@
 
 ## 🚀 Cómo ejecutarlo
 
-Ver el archivo [`run.md`] para instrucciones completas de instalación, ejecución y pruebas.
+Clonar repositorio de manera local y ver el archivo [`run.md`] para instrucciones completas de instalación, ejecución y pruebas.
 
 ## 📄 Documentación técnica
 
